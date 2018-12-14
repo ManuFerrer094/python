@@ -1,0 +1,1 @@
+{"filter":false,"title":"funcionsaluda.py","tooltip":"/funcionsaluda.py","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1513196015097,"hash":"feb332e2784c1d254e8ee6283be236c7b4d215e3"}
